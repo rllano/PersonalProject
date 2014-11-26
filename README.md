@@ -9,13 +9,13 @@ to it and added meaningful content about myself. This website can easily be view
 **Here are some screenshots:**
 <br/>
 About/Home
-![Website Pictures](/Screenshots/about.png)
+![Website Pictures](https://cloud.githubusercontent.com/assets/8515446/5196688/37a331a0-74f3-11e4-80bb-715ceff80aa1.PNG)
 <br/>
 Contact
-![Website Pictures](/Screenshots/contact.png)
+![Website Pictures](https://cloud.githubusercontent.com/assets/8515446/5196715/a7802078-74f3-11e4-83e0-226ce266cbb1.PNG)
 <br/>
 HTML5 code for Contact page
-![Website Pictures](/Screenshots/contact_html.PNG)
+![Website Pictures](https://cloud.githubusercontent.com/assets/8515446/5196717/af3cf142-74f3-11e4-90fd-6fccf8aaadae.PNG)
 <br/>
 CSS3 file on all pages
 ![Website Pictures](https://cloud.githubusercontent.com/assets/8515446/5196720/c05d5f48-74f3-11e4-9ab7-2da6c013129b.PNG)
