@@ -18,7 +18,7 @@ HTML5 code for Contact page
 ![Website Pictures](/Screenshots/contact_html.PNG)
 <br/>
 CSS3 file on all pages
-![Website Pictures](/Screenshots/css.png)
+![Website Pictures](https://cloud.githubusercontent.com/assets/8515446/5196720/c05d5f48-74f3-11e4-9ab7-2da6c013129b.PNG)
 <br/>
-https://cloud.githubusercontent.com/assets/8515446/5196720/c05d5f48-74f3-11e4-9ab7-2da6c013129b.PNG
+
 
