@@ -7,6 +7,7 @@ I created a simple three page personal website using a template available from g
 to it and added meaningful content about myself. This website can easily be viewed on any mobile device or pc, and can be the base for my official website if I ever happen to make one. 
 
 **Here are some screenshots:**
+<br/>
 About/Home
 ![Website Pictures](/Screenshots/about.png)
 <br/>
